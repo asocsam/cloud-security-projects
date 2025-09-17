@@ -1,9 +1,4 @@
 
----
-
-# ☁️ Cloud Security & Automation  
-
-```markdown
 # Cloud Security & Automation ☁️  
 
 ## Overview  
